@@ -1,8 +1,8 @@
 # Sonic: The Hedgehog 2D Game
 
-Welcome to **Sonic: The Hedgehog 2D Game**, an endless runner game that brings the excitement of classic Sonic adventures to your browser! Built using JavaScript, this game is perfect for fans of fast-paced arcade action and platforming fun.
+Welcome to **Sonic Ring Dash: The Hedgehog 2D Game**, an endless runner game that brings the excitement of classic Sonic adventures to your browser! Built using JavaScript, this game is perfect for fans of fast-paced arcade action and platforming fun.
 
-## Play and Comment at : [SONIC DASHHH](https://firdous.itch.io/sonic-dashhh)
+## Play and Comment at : [SONIC RING DASH](https://firdous.itch.io/sonic-dashhh)
 
 ## 🎮 Features
 
